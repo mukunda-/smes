@@ -1,0 +1,10 @@
+Drag and drop TMX files (MUST BE BASE64 ENCODED.) onto mapconverter.exe
+to turn them into raw binary files for the smes functions.
+
+TMX files are created with Tiled
+
+http://www.mapeditor.org/
+
+and in case it wasn't clear by now, TMX files are TILEMAPS.
+
+TODO: find source code ...
