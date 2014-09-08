@@ -7,9 +7,10 @@
 @if "%3" == "" set valid=false
 
 @if "%valid%" == "false" (
-	@echo "Usage: process.bat <directory> <width> <height>"
+	@echo "Usage: process.bat <directory> <width> <height> [-x]"
 	@echo   directory - path to directory containing list of sprite files to compile.
 	@echo   width,height - dimensions of the images, in pixels.
+	@echo   -x - sets translucent flag for material
 	@goto skipcompile
 )
 
