@@ -1,0 +1,8 @@
+This is a set of scripts to help cut up an image and save it as a 
+game material.
+
+Required tools:
+
+ImageMagick
+vtfcmd2 (modified version of Nem's vtfcmd)
+TODO: need to release vtfcmd2 or get in touch with Nem to merge the changes.

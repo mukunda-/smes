@@ -1,0 +1,14 @@
+Copy snes_cart_template.png and rename it to cart_<yourgameid>.png 
+
+Photoshop your game title sticker on the new cartridge image.
+
+Use the python script gencart.py to generate a model file for your cartridge 
+image.
+
+Usage: gencart.py <yourgameid>
+
+cart_<yourgameid>.smd and cart_<yourgameid>.qc will be generated.
+
+Pass the qc file to Valve's studiomdl program to compile it into the source game files.
+
+e.g. "C:\Steam\steamapps\common\Counter-Strike Global Offensive\bin\studiomdl" -game "C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo" cart_<yourgameid>.qc
