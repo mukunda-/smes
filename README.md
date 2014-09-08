@@ -9,9 +9,11 @@ It spawns a console, controllers, and cartridges for players to interact with.
 Players can pick up cartridges and place them into the game console to play them.
 
 Players can control the video game by picking up a controller and their
-normal game input will be passed to the video game they are playing. (*with animated buttons*) 
+normal game input will be passed to the video game they are playing. 
 
-Some video's of it in action:
+Features animated controller buttons and controller cords, just like the *real thing*.
+
+Some videos of it in action:
 
 http://youtu.be/5pMQ7oBHdPE
 http://youtu.be/LoyGRRJgpTU
