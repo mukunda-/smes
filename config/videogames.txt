@@ -1,0 +1,114 @@
+"videogames"
+{
+	// I have no idea how I got these coordinates... good luck.
+	
+	"cs_office"
+	{
+		// position where player1 stands while playing
+		"player1"
+		{
+			"position"	"1700.394 -155.902 -159.968"
+			"angles"	"0.0 180.0 0.0"
+		}	
+		
+		// position where player2 stands while playing
+		"player2"
+		{
+			"position"	"1700.394 -130.403 -159.968"
+			"angles"	"0.0 -166.73 0.0"
+		}
+ 
+		// position where console is spawned
+		"console"
+		{
+			"position"	"1624.115112 -152.432861 -121.954758"
+			"angles"	"0.000000 0.915057 0.000000"
+
+		}
+		
+		// position where controller 1 is spawned
+		"controller1"
+		{
+			"position" "1624.708374 -123.396576 -121.954758" 
+			"angles" "0.000000 37.078892 0.000000"
+
+		}
+		
+		// position where controller 2 is spawned
+		"controller2"
+		{
+			"position" "1614.708374 -132.396576 -121.954758" 
+			"angles" "0.000000 150.078892 0.000000"
+
+		}
+
+		// position where cartridges spawn
+		// a cartridge will spawn per game plugin loaded
+		"cartridges"
+		{
+			"1"
+			{
+				"position"	"1756.360962 -133.261200 -139.880997"
+				"angles"	"-90.000000 -153.720184 0.000000"
+			}
+			"2"
+			{
+				"position"	"1755.984497 -164.771500 -139.880997"
+				"angles"	"-90.000000 82.022430 0.000000"
+
+			}
+		} 
+	}
+	
+	"rxglobby3"
+	{
+
+		"player1"
+		{
+			"position"	"773.098755 -1143.145508 0.031250"
+			"angles"	"0.000000 0.404999 0.000000"
+		}	
+		"player2"
+		{
+			"position"	"773.083862 -1173.454712 0.031250"
+			"angles"	"0.000000 21.112522 0.000000"
+		}
+ 
+		"console"
+		{
+			"position"	"843.994934 -1142.779907 33.665878"
+			"angles"	"0.000000 177.859558 0.000000"
+
+		}
+		
+		"controller1"
+		{
+			"position" "846.408691 -1130.503540 10.667079"
+			"angles" "0.000000 -166.053116 0.000000"
+
+		}
+		"controller2"
+		{
+			"position" "847.647705 -1148.234497 10.667091"
+			"angles" "0.000000 70.920593 0.000000"
+
+		}
+
+		"cartridges"
+		{
+			"1"
+			{
+				"position"	"736.701721 -1146.616089 20.854040"
+				"angles"	"-90.000000 -135.528183 0.000000"
+			}
+			"2"
+			{
+				"position"	"738.036926 -1109.356934 20.854040"
+				"angles"	"-90.000000 149.534454 0.000000"
+
+			}
+		}
+
+	}
+	 
+}
