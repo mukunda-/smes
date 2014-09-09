@@ -122,7 +122,6 @@ new sleep_time;
 #include "videogames/bg.sp"
 #include "videogames/tvhook.sp"
 #include "videogames/sprites.sp"
-#include "videogames/timers.sp"
 #include "videogames/natives.sp"
 #include "videogames/bios.sp"
 #include "videogames/apu.sp"

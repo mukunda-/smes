@@ -1,4 +1,4 @@
-/******************************************************************************
+﻿/******************************************************************************
  * The SourceMOD Entertainment System
  * Copyright (C) 2014 Mukunda Johnson
  *
@@ -387,8 +387,8 @@ native VG_Text_SetPosition( index, x, y );
 //   │ 5│ 6│ 7│ 8│ (each entity spaced 16 pixels part.)
 //   ├──┼──┼──┼──┤
 //   │ 9│10│11│12│
-//   ├──┼──┼──┼──┘
-//   │13│14|
+//   ├──┼──┼──┴──┘
+//   │13│14│
 //   └──┴──┘
 //
 native VG_Text_SetPositionGrid( index, count, x, y, 
